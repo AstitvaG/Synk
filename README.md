@@ -13,10 +13,10 @@ Synk, as the name suggests, is an app to synchonise your data between your devic
 
 ## Source Code
 
-#### Synk Web: [https://github.com/AstitvaG/Synk-Web]()
-#### Synk Mobile: [https://github.com/AstitvaG/Synk-App]()
-#### Synk Backend: [https://github.com/AstitvaG/Synk-Backend]()
-#### Synk Linux: [https://github.com/AstitvaG/Synk-Linux]() (Unreleased)
+#### Synk Web: [https://github.com/AstitvaG/Synk-Web](https://github.com/AstitvaG/Synk-Web)
+#### Synk Mobile: [https://github.com/AstitvaG/Synk-App](https://github.com/AstitvaG/Synk-App)
+#### Synk Backend: [https://github.com/AstitvaG/Synk-Backend](https://github.com/AstitvaG/Synk-Backend)
+#### Synk Linux: [https://github.com/AstitvaG/Synk-Linux](https://github.com/AstitvaG/Synk-Linux) (Unreleased)
 
 ## TODO
 
